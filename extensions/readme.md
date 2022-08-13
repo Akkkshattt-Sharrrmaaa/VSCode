@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<img align ="right" src="extensions.png">
+<img align ="right" src="extensions.png" width="600">
 
    1. Background by Katsute
    2. Code Runner by Jun Han
