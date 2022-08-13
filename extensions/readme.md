@@ -1,5 +1,7 @@
  List of all the extensions that I use
-## All vscode extensions are located at /home/$user/.vscode/extensions # $user represents your username
+## All vscode extensions are located at /home/$user/.vscode/extensions 
+<br>
+# $user represents your username
 <br>
 <br>
 
