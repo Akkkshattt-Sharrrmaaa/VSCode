@@ -3,4 +3,4 @@
 You can copy the same config files to make your vs code look something like: 
 <br>
 <br>
-<img src="vscode.png" align="centre">
+<img src="./img/vscode.png" align="centre">
